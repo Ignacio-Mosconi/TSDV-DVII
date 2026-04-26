@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25d8ae8358088b842a2b988150b74f23, type: 3}
+  m_Name: Level 2
+  m_EditorClassIdentifier: 
+  <LevelNumber>k__BackingField: 2
+  <EnemiesCount>k__BackingField: 6
+  <HealthPacksCount>k__BackingField: 7
+  <AmmoPacksCount>k__BackingField: 5
+  <SpawnRadius>k__BackingField: 6
+  <EnemyPrefab>k__BackingField: {fileID: 7231034775910800574, guid: 5b0917865305e1f46b7a635c5b6c350c, type: 3}
+  <HealthPackPrefab>k__BackingField: {fileID: 5794247576949868709, guid: c7391dc8236c76c4fa08b488949c034d, type: 3}
+  <AmmoPackPrefab>k__BackingField: {fileID: 6005270703880990353, guid: 1f8853c4e5a448046943dfd1172c555e, type: 3}
