@@ -42,7 +42,7 @@ public class LevelsManager : MonoBehaviourSingleton<LevelsManager>
         SceneManager.LoadScene(levelName, LoadSceneMode.Additive);
     }
     
-    public async void LoadNewLevelAsync (string levelName)
+    public void LoadNewLevelAsync (string levelName)
     {
         LoadLevelAsync(levelName, additively: false);
     }
